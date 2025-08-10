@@ -21,46 +21,59 @@ Source: sales_data_sample.csv
 
 Records: 2,823 transactions
 
-Key Fields:
+-->Key Fields:
 
--ORDERNUMBER — Unique order identifier
--CUSTOMERNAME — Customer name
--ORDERDATE — Date of purchase
--SALES — Transaction amount
--PRODUCTLINE, COUNTRY, STATUS, DEALSIZE
+ORDERNUMBER — Unique order identifier
+
+CUSTOMERNAME — Customer name
+
+ORDERDATE — Date of purchase
+
+SALES — Transaction amount
+
+PRODUCTLINE, COUNTRY, STATUS, DEALSIZE
 
 🛠️ Tools & Technologies
 
 -Languages: SQL
+
 -Visualization: Tableau
+
 -Data Analysis: Python (optional for RFM calculations)
+
 -Libraries (Python): Pandas, NumPy, Matplotlib, Seaborn
 
 📊 Methodology
 
-1)Data Exploration
+-->Data Exploration
 
--Checked unique values for key columns.
+Checked unique values for key columns.
 
--Identified data ranges and missing values.
+Identified data ranges and missing values.
 
-2)RFM Analysis
+-->RFM Analysis
 
--Recency: Days since last purchase.
+Recency: Days since last purchase.
 
--Frequency: Number of unique orders.
+Frequency: Number of unique orders.
 
--Monetary: Total spend.
+Monetary: Total spend.
 
-3)Segmentation Rules
--Champions
--Loyal Customers
--Potential Loyalists
--At Risk
--Lost Customers
+-->Segmentation Rules
 
-4)Visualization
--Created a Tableau dashboard to present insights interactively.
+Champions
+
+Loyal Customers
+
+Potential Loyalists
+
+At Risk
+
+Lost Customers
+
+-->Visualization
+
+Created a Tableau dashboard to present insights interactively.
 
 📈 Results
 
