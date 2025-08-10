@@ -6,6 +6,9 @@
 This project performs Customer Segmentation for retail sales data using the RFM (Recency, Frequency, Monetary) technique. It leverages SQL for data extraction & transformation and Tableau for dashboard visualization. The goal is to classify customers into meaningful segments to help businesses make data-driven marketing decisions.
 
 
+
+
+
 🎯 Objectives
 
 -Analyze historical customer transactions to uncover purchasing patterns.
@@ -50,38 +53,38 @@ This project performs Customer Segmentation for retail sales data using the RFM 
 📊 Methodology
 
 
--->Data Exploration
+--->Data Exploration
 
-Checked unique values for key columns.
+-Checked unique values for key columns.
 
-Identified data ranges and missing values.
-
-
--->RFM Analysis
-
-Recency: Days since last purchase.
-
-Frequency: Number of unique orders.
-
-Monetary: Total spend.
+-Identified data ranges and missing values.
 
 
--->Segmentation Rules
+--->RFM Analysis
 
-Champions
+-Recency: Days since last purchase.
 
-Loyal Customers
+-Frequency: Number of unique orders.
 
-Potential Loyalists
-
-At Risk
-
-Lost Customers
+-Monetary: Total spend.
 
 
--->Visualization
+--->Segmentation Rules
 
-Created a Tableau dashboard to present insights interactively.
+-Champions
+
+-Loyal Customers
+
+-Potential Loyalists
+
+-At Risk
+
+-Lost Customers
+
+
+--->Visualization
+
+-Created a Tableau dashboard to present insights interactively.
 
 
 📈 Results
