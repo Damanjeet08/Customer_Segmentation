@@ -1,18 +1,24 @@
 # Customer_Segmentation
 📊 Customer Segmentation Analysis for Retail Sales
+
 📌 Overview
+
 This project performs Customer Segmentation for retail sales data using the RFM (Recency, Frequency, Monetary) technique. It leverages SQL for data extraction & transformation and Tableau for dashboard visualization. The goal is to classify customers into meaningful segments to help businesses make data-driven marketing decisions.
 
 🎯 Objectives
 
 -Analyze historical customer transactions to uncover purchasing patterns.
+
 -Segment customers based on Recency, Frequency, and Monetary value.
+
 -Identify high-value customers and those at risk of churn.
+
 -Provide actionable insights for targeted marketing campaigns.
 
 📂 Dataset
 
 Source: sales_data_sample.csv
+
 Records: 2,823 transactions
 
 Key Fields:
