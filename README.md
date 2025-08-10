@@ -33,12 +33,17 @@ Key Fields:
 📊 Methodology
 
 1)Data Exploration
+
 -Checked unique values for key columns.
+
 -Identified data ranges and missing values.
 
 2)RFM Analysis
+
 -Recency: Days since last purchase.
+
 -Frequency: Number of unique orders.
+
 -Monetary: Total spend.
 
 3)Segmentation Rules
